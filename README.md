@@ -1,2 +1,5 @@
-# modelo-de-curso
-Esse é o modelo de curso a ser seguido pela Webschool,
+# Nome do Curso
+
+- **Duração:** X horas
+- **Peridiocidade: X horas por semana
+- 
